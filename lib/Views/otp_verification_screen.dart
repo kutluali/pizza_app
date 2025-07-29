@@ -103,7 +103,7 @@ class _OtpVerificationScreenState extends State<OtpVerificationScreen> {
                 strokeWidth: 8,
                 backgroundColor: Colors.white, // Arka kalan kısmın rengi
                 valueColor: AlwaysStoppedAnimation<Color>(
-                  Color.fromARGB(255, 196, 67, 20), // Dönen kısmın rengi
+                  Color.fromARGB(255, 196, 67, 20),
                 ),
               ),
             ),

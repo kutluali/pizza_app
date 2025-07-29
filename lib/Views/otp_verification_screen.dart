@@ -112,5 +112,3 @@ class _OtpVerificationScreenState extends State<OtpVerificationScreen> {
     );
   }
 }
-
-// ProductSayfasi'nı import etmeyi unutmayın
